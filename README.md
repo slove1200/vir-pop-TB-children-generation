@@ -5,7 +5,7 @@ For more information, please check [Svensson et al. (*Clin Pharmacokinet*, 2018)
 
 ## Workflow & File Descriptions
 
-### `LMS_approximations_refit.R`
+### (in the "LMS-fitting-parameters" directory) `LMS_approximations_refit.R`
 Fits the LMS values for both genders and extracts the parameters of the LMS functions.
 * **Inputs:** `male_LMS_values.csv`, `female_LMS_values.csv`
 

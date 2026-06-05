@@ -1,4 +1,4 @@
-# Covariate Effects TTE Extended Models
+# Virtual pediatric population with tuberculosis
 
 This repository contains the codebase for simulating virtual TB pediatric populations.
 For more information, please check [Svensson et al. (*Clin Pharmacokinet*, 2018)](https://link.springer.com/article/10.1007/s40262-017-0577-6) and [Lin et al. (*Clin Pharmacol Ther*, 2025)](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3536).
